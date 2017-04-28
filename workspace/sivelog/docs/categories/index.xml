@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sivelog</title>
+    <link>https://sivertigo.github.io/docs/categories/</link>
+    <description>Recent content in Categories on Sivelog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    
+	<atom:link href="https://sivertigo.github.io/docs/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coffee</title>
+      <link>https://sivertigo.github.io/docs/categories/coffee/</link>
+      <pubDate>Fri, 28 Apr 2017 16:28:19 +0900</pubDate>
+      
+      <guid>https://sivertigo.github.io/docs/categories/coffee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
