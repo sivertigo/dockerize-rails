@@ -5,11 +5,19 @@ class PlayersController < ApplicationController
   # GET /players.json
   def index
     @players = Player.all
+    render json: @players
   end
 
   # GET /players/1
   # GET /players/1.json
   def show
+    if @player.blank?
+      render json: {}
+    else
+      render json: @player
+    end
+    
+    
   end
 
   # POST /players
@@ -43,7 +51,8 @@ class PlayersController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_player
-      @player = Player.find(params[:id])
+      @player = Player.find(params[:player_id])
+      puts "hello"
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sivelog</title>
-    <link>https://sivertigo.github.io/docs/tags/</link>
+    <link>https://sivertigo.github.io/tags/</link>
     <description>Recent content in Tags on Sivelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>UTF-8</language>
     
-	<atom:link href="https://sivertigo.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sivertigo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ブレンド</title>
-      <link>https://sivertigo.github.io/docs/tags/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89/</link>
+      <link>https://sivertigo.github.io/tags/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89/</link>
       <pubDate>Fri, 28 Apr 2017 16:28:19 +0900</pubDate>
       
-      <guid>https://sivertigo.github.io/docs/tags/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89/</guid>
+      <guid>https://sivertigo.github.io/tags/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89/</guid>
       <description></description>
     </item>
     
     <item>
       <title>堀口コーヒー</title>
-      <link>https://sivertigo.github.io/docs/tags/%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/</link>
+      <link>https://sivertigo.github.io/tags/%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/</link>
       <pubDate>Fri, 28 Apr 2017 16:28:19 +0900</pubDate>
       
-      <guid>https://sivertigo.github.io/docs/tags/%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/</guid>
+      <guid>https://sivertigo.github.io/tags/%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/</guid>
       <description></description>
     </item>
     

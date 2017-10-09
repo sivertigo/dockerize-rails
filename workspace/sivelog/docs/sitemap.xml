@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sivertigo.github.io/docs/2017/04/%E7%8B%9B%E6%B1%9F%E3%81%AE%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/</loc>
+    <loc>https://sivertigo.github.io/2017/04/%E7%8B%9B%E6%B1%9F%E3%81%AE%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/</loc>
     <lastmod>2017-04-28T16:28:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/docs/archives/</loc>
+    <loc>https://sivertigo.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/docs/categories/</loc>
+    <loc>https://sivertigo.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/docs/categories/coffee/</loc>
-    <lastmod>2017-04-28T16:28:19+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivertigo.github.io/docs/post/</loc>
+    <loc>https://sivertigo.github.io/categories/coffee/</loc>
     <lastmod>2017-04-28T16:28:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/docs/</loc>
+    <loc>https://sivertigo.github.io/post/</loc>
     <lastmod>2017-04-28T16:28:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/docs/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivertigo.github.io/docs/tags/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89/</loc>
+    <loc>https://sivertigo.github.io/</loc>
     <lastmod>2017-04-28T16:28:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivertigo.github.io/docs/tags/%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/</loc>
+    <loc>https://sivertigo.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivertigo.github.io/tags/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89/</loc>
+    <lastmod>2017-04-28T16:28:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivertigo.github.io/tags/%E5%A0%80%E5%8F%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/</loc>
     <lastmod>2017-04-28T16:28:19+09:00</lastmod>
     <priority>0</priority>
   </url>
